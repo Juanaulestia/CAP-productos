@@ -1,0 +1,21 @@
+ID;Name;Description;ImageUrl;ReleaseDate;DiscontinuedDate;Price;Height;Width;Depth;Quantity
+00000000-0000-0000-0000-000000000001;Smartphone X;Teléfono de última generación;https://picsum.photos/300/300?1;2024-01-15T00:00:00Z;;899.99;15.2;7.1;0.8;150
+00000000-0000-0000-0000-000000000002;Laptop Pro;Portátil profesional;https://picsum.photos/300/300?2;2023-11-20T00:00:00Z;;1499.50;2.3;35.5;24.0;80
+00000000-0000-0000-0000-000000000003;Auriculares Wireless;Auriculares con cancelación de ruido;https://picsum.photos/300/300?3;2024-03-10T00:00:00Z;;129.99;0.0;0.0;0.0;320
+00000000-0000-0000-0000-000000000004;Monitor 4K;Monitor UHD 27";https://picsum.photos/300/300?4;2023-09-05T00:00:00Z;;449.00;55.0;65.0;20.0;45
+00000000-0000-0000-0000-000000000005;Tablet Y;Tablet 10 pulgadas;https://picsum.photos/300/300?5;2024-02-28T00:00:00Z;;299.99;0.6;24.5;16.0;200
+00000000-0000-0000-0000-000000000006;Teclado Mecánico;Teclado gaming RGB;https://picsum.photos/300/300?6;2024-04-12T00:00:00Z;;89.50;3.5;45.0;15.0;180
+00000000-0000-0000-0000-000000000007;Mouse Inalámbrico;Mouse ergonómico;https://picsum.photos/300/300?7;2023-12-01T00:00:00Z;;45.99;0.0;0.0;0.0;350
+00000000-0000-0000-0000-000000000008;SSD 1TB;Disco sólido NVMe;https://picsum.photos/300/300?8;2024-01-30T00:00:00Z;;119.99;0.0;0.0;0.0;120
+00000000-0000-0000-0000-000000000009;Impresora Multifunción;Impresora láser color;https://picsum.photos/300/300?9;2023-10-15T00:00:00Z;;279.00;40.0;45.0;35.0;30
+00000000-0000-0000-0000-000000000010;Cámara Webcam 4K;Cámara para streaming;https://picsum.photos/300/300?10;2024-05-05T00:00:00Z;;149.50;5.0;8.0;4.0;95
+00000000-0000-0000-0000-000000000011;Router WiFi 6;Router gaming;https://picsum.photos/300/300?11;2024-02-10T00:00:00Z;;189.99;3.0;25.0;18.0;75
+00000000-0000-0000-0000-000000000012;Batería Portátil 20000mAh;Power Bank;https://picsum.photos/300/300?12;2023-11-25T00:00:00Z;;39.99;2.5;10.0;15.0;400
+00000000-0000-0000-0000-000000000013;Smartwatch Ultra;Reloj inteligente;https://picsum.photos/300/300?13;2024-04-20T00:00:00Z;;399.00;1.2;4.5;4.0;110
+00000000-0000-0000-0000-000000000014;Altavoz Bluetooth;Altavoz portátil;https://picsum.photos/300/300?14;2024-03-15T00:00:00Z;;79.50;8.0;8.0;8.0;250
+00000000-0000-0000-0000-000000000015;Memoria RAM 32GB;Kit 2x16GB DDR5;https://picsum.photos/300/300?15;2024-01-10T00:00:00Z;;145.00;0.0;0.0;0.0;85
+00000000-0000-0000-0000-000000000016;Tarjeta Gráfica RTX;Tarjeta gaming;https://picsum.photos/300/300?16;2024-05-01T00:00:00Z;;899.99;5.0;30.0;12.0;25
+00000000-0000-0000-0000-000000000017;Monitor Curvo 34";Monitor ultrawide;https://picsum.photos/300/300?17;2023-12-20T00:00:00Z;;599.00;55.0;80.0;30.0;40
+00000000-0000-0000-0000-000000000018;Webcam 1080p;Webcam HD;https://picsum.photos/300/300?18;2024-02-05T00:00:00Z;;59.99;4.0;6.0;3.0;180
+00000000-0000-0000-0000-000000000019;Disco Duro 4TB;HDD Externo;https://picsum.photos/300/300?19;2023-10-30T00:00:00Z;;129.50;2.5;12.0;18.0;65
+00000000-0000-0000-0000-000000000020;Hub USB-C 10 en 1;Hub multifunción;https://picsum.photos/300/300?20;2024-04-25T00:00:00Z;;69.99;1.5;10.0;5.0;140

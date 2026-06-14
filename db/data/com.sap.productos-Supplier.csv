@@ -1,0 +1,6 @@
+ID;Address_Street;Address_City;Address_State;Address_PostalCode;Address_Country;Email;Phone;Fax
+00000000-0000-0000-0000-000000000001;Av. Reforma 123;Ciudad de México;CD;06600;MEX;contacto@techmex.com;+525512345678;+525512345679
+00000000-0000-0000-0000-000000000002;Carrera 7 #45-67;Bogotá;;110111;COL;ventas@electrocol.com;+5712345678;+5712345679
+00000000-0000-0000-0000-000000000003;Av. Paulista 1000;São Paulo;SP;01310-100;BRA;info@brastech.com;+5511987654321;
+00000000-0000-0000-0000-000000000004;456 Silicon Valley;San Francisco;CA;94105;USA;sales@usgadgets.com;+14155551234;+14155551235
+00000000-0000-0000-0000-000000000005; Calle 50 #12-34;Medellín;;050022;COL;proveedor@techco.com;+5741234567;
